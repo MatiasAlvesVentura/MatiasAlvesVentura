@@ -1,5 +1,5 @@
 <div style="background:linear-gradient(0deg, rgba(39,39,40,1) 0%, rgba(13,13,13,1) 100%);padding:20px">
-<div style="height:150px;overflow:hidden;position:relative;;box-shadow:0px 0px 15px 3px #d10ecd;">
+<div style="height:20px;overflow:hidden;position:relative;box-shadow:0px 0px 15px 3px #d10ecd;">
 <img src="https://img.freepik.com/vector-gratis/circuitos-fondo-digital-degradado-azul-rojo_23-2148821701.jpg?size=626&ext=jpg"  style="width:100%">
 <p style="position:absolute;top:10%;color:white;font-size:40px;left:5%">Hi there 👋, I´m Matias</p>
 <p style="position:absolute;top:50%;color:white;font-size:25px;left:15%"> I am a programmer technician</p>
