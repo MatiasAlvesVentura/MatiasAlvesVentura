@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**MatiasAlvesVentura/MatiasAlvesVentura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="background:linear-gradient(0deg, rgba(39,39,40,1) 0%, rgba(13,13,13,1) 100%);padding:20px">
+<div style="height:150px;overflow:hidden;position:relative;;box-shadow:0px 0px 15px 3px #d10ecd;">
+<img src="https://img.freepik.com/vector-gratis/circuitos-fondo-digital-degradado-azul-rojo_23-2148821701.jpg?size=626&ext=jpg"  style="width:100%">
+<p style="position:absolute;top:10%;color:white;font-size:40px;left:5%">Hi there 👋, I´m Matias</p>
+<p style="position:absolute;top:50%;color:white;font-size:25px;left:15%"> I am a programmer technician</p>
+</div>
+<br>
+<p style="color:white;text-align:center">I am just a simple guy who likes learning new things, i love web desing and develop. My strongest aim is becoming in someone i am proud of. In this place you will see what i have been working on, all my projects and tasks.</p>
+<div style="color:white">
+Here are some skills:
+<ul>
+<li><p style="color:#c60da2;font-weight:700;">HTML & CSS</p></li>
+<li><p style="color:#b610d2;font-weight:700;">JAVASCRIPT</p></li>
+<li><p style="color:#c60da2;font-weight:700;">SQL SERVER</p></li>
+<li><p style="color:#b610d2;font-weight:700;">MYSQL</p></li>
+<li><p style="color:#c60da2;font-weight:700;">C++</p></li>
+<li><p style="color:#b610d2;font-weight:700;">C#</p></li>
+<li><p style="color:#c60da2;font-weight:700;">.NET</p></li>
+</ul>
+</div>
+</div>
