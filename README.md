@@ -18,6 +18,4 @@ Here are some skills:
 </ul>
 </div>
 </div>
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>
+
